@@ -1,0 +1,12 @@
+{
+  "name": "run-watch",
+  "owner": {
+    "name": "GenLI3202"
+  },
+  "plugins": [
+    {
+      "name": "run-watch",
+      "source": "./"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "run-watch",
+  "version": "0.1.0",
+  "description": "Watches long runs from their log files, with no model calls: progress and ETA from the log, a notice when the run finishes, fails or stops writing. /watch ./run.log --pid 4242",
+  "author": { "name": "thinkagen" },
+  "types": "./types/index.d.ts",
+  "license": "MIT"
+}
